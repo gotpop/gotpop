@@ -3,24 +3,24 @@ I'm a frontend developer with over 10 years experience.
 
 ```mermaid
 graph TD
-    A[Web Development is Fun!] --> B[Creativity]
-    A --> C[Problem Solving]
-    A --> D[Instant Feedback]
-    A --> E[Community]
-    A --> F[Continuous Learning]
+    A[Web Dev is Fun! 🎉] --> B[Creativity 🎨]
+    A --> C[Debugging 🐛]
+    A --> D[Instant Gratification 🚀]
+    A --> E[Community 👩‍💻👨‍💻]
+    A --> F[Learning 📚]
 
-    B --> B1[Designing Beautiful UIs]
-    B --> B2[Animations & Interactions]
+    B --> B1["Make it pretty ✨"]
+    B --> B2["Add sparkles 🌟"]
     
-    C --> C1[Debugging Challenges]
-    C --> C2[Optimizing Performance]
+    C --> C1["Why won't it work? 😭"]
+    C --> C2["Oh, I forgot a semicolon 😅"]
     
-    D --> D1[See Changes Instantly]
-    D --> D2[Live Previews]
+    D --> D1["Refresh = Magic 🪄"]
+    D --> D2["Live Server = MVP 🏆"]
     
-    E --> E1[Open Source Contributions]
-    E --> E2[Collaboration with Others]
+    E --> E1["Stack Overflow = Lifesaver 🦸"]
+    E --> E2["GitHub Copilot = Buddy 🤖"]
     
-    F --> F1[New Frameworks & Tools]
-    F --> F2[Emerging Technologies]
+    F --> F1["New JS framework every week 🤯"]
+    F --> F2["CSS Grid > Flexbox? 🤔"]
 ```
