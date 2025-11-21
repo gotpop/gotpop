@@ -1,14 +1,29 @@
-### Hi there 👋
-I'm a Web developer with over 12 years experience.
+## Demo Platform: Component-Driven Architecture
 
-## Demo Platform: Component-Driven Blog & Portfolio
+Multi-repository platform demonstrating modern web development with shared component systems and centralized design tokens.
 
-Built a multi-project platform showcasing modern web development with shared component systems:
+### Architecture Overview
 
-- **📝 [gotpop.io](https://gotpop.io)** - Personal blog with Storyblok CMS
-- **💼 [work.gotpop.io](https://work.gotpop.io)** - Professional portfolio site  
-- **🎨 Component System** - Shared design system across projects
+The platform consists of interconnected repositories sharing a common design system:
 
-**Stack**: Next.js 16 • TypeScript • Storyblok • AWS • Docker • Monorepo
+- **Monorepo Design System** - Centralized component library published to GitHub Packages
+- **Content Sites** - Two Next.js applications consuming the shared components
+- **Cloud Services** - AWS Lambda functions for email and serverless functionality
 
-Features content management, email services, CI/CD deployment, and a unified component library powering both sites.
+### Live Projects
+
+| Project | URL | Purpose |
+|---------|-----|---------|
+| Blog | [gotpop.io](https://gotpop.io) | Personal blog with Storyblok CMS |
+| Portfolio | [work.gotpop.io](https://work.gotpop.io) | Professional work showcase |
+| Storybook | [storybook.gotpop.io](https://storybook.gotpop.io) | Component documentation |
+
+### Technical Stack
+
+**Frontend**: Next.js 16, TypeScript, React Server Components  
+**CMS**: Storyblok with multi-tenant content structure  
+**Design System**: Turbo monorepo with published component packages  
+**Infrastructure**: AWS (EC2, Lambda, SES), Docker containerization  
+**CI/CD**: GitHub Actions with automated deployment pipelines
+
+The architecture enables component reuse across projects while maintaining independent deployment cycles and content management.
