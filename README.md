@@ -2,6 +2,8 @@
 
 Multi-repository platform demonstrating modern web development with shared component systems and centralized design tokens.
 
+![System Architecture](https://a.storyblok.com/f/287776322113402/784x811/8da7cc1cf9/system-architecture.png)
+
 ### Architecture Overview
 
 The platform consists of interconnected repositories sharing a common design system:
