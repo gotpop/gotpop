@@ -1,8 +1,13 @@
 ## Demo Platform: Component-Driven Architecture
 
-Multi-repository platform demonstrating modern web development with shared component systems and centralized design tokens.
+A multi-repository platform showcasing modern web development with shared component systems, centralized design tokens, and microservice architecture. Built to demonstrate scalable frontend architecture patterns and cross-project component reuse.
 
-![System Architecture](https://a.storyblok.com/f/287776322113402/784x811/8da7cc1cf9/system-architecture.png)
+<details>
+<summary><strong>View Technical Details</strong></summary>
+
+<div align="center">
+  <img src="https://a.storyblok.com/f/287776322113402/784x811/8da7cc1cf9/system-architecture.png" alt="System Architecture" />
+</div>
 
 ### Architecture Overview
 
@@ -29,3 +34,5 @@ The platform consists of interconnected repositories sharing a common design sys
 **CI/CD**: GitHub Actions with automated deployment pipelines
 
 The architecture enables component reuse across projects while maintaining independent deployment cycles and content management.
+
+</details>
