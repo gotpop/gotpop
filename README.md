@@ -9,7 +9,7 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 ## Demo Project: Component System
 
 <details open>
-<summary><strong>View Technical Details</strong></summary>
+<summary><strong>Technical Diagram</strong></summary>
 
 <div align="center">
   <img src="https://a.storyblok.com/f/287776322113402/675x661/5d49e34351/architecture.png" alt="System Architecture" />
