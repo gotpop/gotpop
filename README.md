@@ -2,7 +2,7 @@
 
 I'm a developer with over 10 years experience in building web applications.
 
-Take a look at my most recent demo project below, it's a compponent system with AWS infra. Alternatively if you'd like to get in touch you can [message me directly from my site](https://work.gotpop.io/contact).
+If you're interested why not take a look at my most recent demo project below, it's a compponent system with AWS infra. Alternatively if you'd like to get in touch you can [message me directly from my site](https://work.gotpop.io/contact).
 
 ## Demo Project: Component System
 
