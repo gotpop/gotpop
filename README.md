@@ -14,14 +14,17 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 <div align="center">
   <img src="https://a.storyblok.com/f/287776322113402/675x661/5d49e34351/architecture.png" alt="System Architecture" />
 </div>
+</details>
 
-### Architecture Overview
+<details open>
+<summary><strong>Architecture Overview</strong></summary>
 
 This project consists of multiple repos sharing a common component system:
 
 - **Monorepo Design System** - Centralized component library published to GitHub Packages
 - **Content Sites** - Two Next.js applications consuming the shared components
 - **Cloud Services** - AWS Lambda functions for email and serverless functionality
+</details>
 
 ### Live Projects
 
@@ -42,4 +45,3 @@ This project consists of multiple repos sharing a common component system:
 | **CI/CD** | GitHub Actions with automated deployment pipelines |
 
 
-</details>
