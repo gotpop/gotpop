@@ -26,7 +26,7 @@ This project consists of multiple repos sharing a common component system:
 
 - **Monorepo Design System** - Centralized component library published to GitHub Packages
 - **Content Sites** - Two Next.js applications consuming the shared components
-- **Cloud Services** - AWS Lambda functions for email with SES and hosting on EC2
+- **Cloud Services** - AWS Lambda functions for email with SES & hosting on EC2
 </details>
 
 <details>
