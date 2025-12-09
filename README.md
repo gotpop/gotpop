@@ -2,7 +2,7 @@
 
 A multi-repository platform showcasing modern web development with shared component systems, centralized design tokens, and microservice architecture. Built to demonstrate scalable frontend architecture patterns and cross-project component reuse.
 
-<details>
+<details open>
 <summary><strong>View Technical Details</strong></summary>
 
 <div align="center">
