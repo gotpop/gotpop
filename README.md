@@ -1,4 +1,4 @@
-# Hiya thanks for popping in 👋
+# Hello, thanks for popping in 👋
 
 I'm a developer with over 10 years experience.
 
