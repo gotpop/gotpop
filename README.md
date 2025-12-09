@@ -1,6 +1,10 @@
-## Demo Platform: Component-Driven Architecture
+# Hello 👋
 
-A multi-repository platform showcasing modern web development with shared component systems, centralized design tokens, and microservice architecture. Built to demonstrate scalable frontend architecture patterns and cross-project component reuse.
+I'm a developer with over 10 years experience. 
+
+Take a look at my most recent demo project below it's a compponent system with AWS infra.
+
+## Demo Project: Component System
 
 <details open>
 <summary><strong>View Technical Details</strong></summary>
