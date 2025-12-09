@@ -2,13 +2,13 @@
 
 I'm a senior developer with over 10 years experience in building web applications.
 
-If you're interested _why not take a look at my most recent demo project below_, it's a compponent system with AWS infra. 
+_If you're interested why not take a look at my most recent demo project below_, it's a compponent system with AWS infra. 
 
 Alternatively if you'd like to get in touch you can [message me directly from my site](https://work.gotpop.io/contact).
 
 ## Demo Project: Component System
 
-<details open>
+<details>
 <summary><strong>View Technical Diagram</strong></summary>
 
 ### Project architecture
@@ -29,7 +29,7 @@ This project consists of multiple repos sharing a common component system:
 - **Cloud Services** - AWS Lambda functions for email and serverless functionality
 </details>
 
-<details open>
+<details>
 <summary><strong>View Live Projects</strong></summary>
   
 ### Live Projects
