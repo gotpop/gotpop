@@ -15,7 +15,7 @@ Take a look at my most recent demo project below it's a compponent system with A
 
 ### Architecture Overview
 
-The platform consists of interconnected repositories sharing a common design system:
+This project consists of muliple repos sharing a common component system:
 
 - **Monorepo Design System** - Centralized component library published to GitHub Packages
 - **Content Sites** - Two Next.js applications consuming the shared components
