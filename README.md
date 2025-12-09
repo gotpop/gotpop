@@ -9,7 +9,9 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 ## Demo Project: Component System
 
 <details open>
-<summary><strong>Technical Diagram</strong></summary>
+<summary><strong>View Technical Diagram</strong></summary>
+
+### Project architecture
 
 <div align="center">
   <img src="https://a.storyblok.com/f/287776322113402/675x661/5d49e34351/architecture.png" alt="System Architecture" />
@@ -17,8 +19,9 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 </details>
 
 <details open>
-<summary><strong>Architecture Overview</strong></summary>
+<summary><strong>View Architecture Overview</strong></summary>
 
+### Overview
 This project consists of multiple repos sharing a common component system:
 
 - **Monorepo Design System** - Centralized component library published to GitHub Packages
@@ -26,6 +29,8 @@ This project consists of multiple repos sharing a common component system:
 - **Cloud Services** - AWS Lambda functions for email and serverless functionality
 </details>
 
+<details open>
+<summary><strong>View Live Projects</strong></summary>
 ### Live Projects
 
 | Project | URL | Purpose |
@@ -33,8 +38,11 @@ This project consists of multiple repos sharing a common component system:
 | Blog | [gotpop.io](https://gotpop.io) | Storyblok CMS personal blog |
 | Portfolio | [work.gotpop.io](https://work.gotpop.io) | Storyblok CMS work showcase |
 | Storybook | [storybook.gotpop.io](https://storybook.gotpop.io) | Component documentation |
+</details>
 
-### Technical Stack
+<details open>
+<summary><strong>View Tech Stack</strong></summary>
+### Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -43,5 +51,9 @@ This project consists of multiple repos sharing a common component system:
 | **Design System** | Turbo monorepo with published component packages |
 | **Infrastructure** | AWS (EC2, Lambda, SES), Docker containerization |
 | **CI/CD** | GitHub Actions with automated deployment pipelines |
+</details>
+
+
+
 
 
