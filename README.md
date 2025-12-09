@@ -1,6 +1,6 @@
 # Hello, thanks for popping in 👋
 
-I'm a developer with over 10 years experience in building web applications.
+I'm a senior developer with over 10 years experience in building web applications.
 
 If you're interested _why not take a look at my most recent demo project below_, it's a compponent system with AWS infra. 
 
