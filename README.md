@@ -27,8 +27,8 @@ This project consists of muliple repos sharing a common component system:
 
 | Project | URL | Purpose |
 |---------|-----|---------|
-| Blog | [gotpop.io](https://gotpop.io) | Personal blog with Storyblok CMS |
-| Portfolio | [work.gotpop.io](https://work.gotpop.io) | Work showcase |
+| Blog | [gotpop.io](https://gotpop.io) | Storyblok CMS personal blog |
+| Portfolio | [work.gotpop.io](https://work.gotpop.io) | Storyblok CMS work showcase |
 | Storybook | [storybook.gotpop.io](https://storybook.gotpop.io) | Component documentation |
 
 ### Technical Stack
