@@ -18,7 +18,7 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 </div>
 </details>
 
-<details open>
+<details>
 <summary><strong>View Architecture Overview</strong></summary>
 
 ### Overview
@@ -31,6 +31,7 @@ This project consists of multiple repos sharing a common component system:
 
 <details open>
 <summary><strong>View Live Projects</strong></summary>
+  
 ### Live Projects
 
 | Project | URL | Purpose |
@@ -40,8 +41,9 @@ This project consists of multiple repos sharing a common component system:
 | Storybook | [storybook.gotpop.io](https://storybook.gotpop.io) | Component documentation |
 </details>
 
-<details open>
+<details>
 <summary><strong>View Tech Stack</strong></summary>
+  
 ### Tech Stack
 
 | Category | Technology |
