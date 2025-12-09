@@ -10,7 +10,7 @@ Take a look at my most recent demo project below it's a compponent system with A
 <summary><strong>View Technical Details</strong></summary>
 
 <div align="center">
-  <img src="https://a.storyblok.com/f/287776322113402/784x811/8da7cc1cf9/system-architecture.png" alt="System Architecture" />
+  <img src="https://a.storyblok.com/f/287776322113402/675x661/5d49e34351/architecture.png" alt="System Architecture" />
 </div>
 
 ### Architecture Overview
