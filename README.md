@@ -17,7 +17,7 @@ Alternatively if you'd like to get in touch you can [message me directly from my
 
 ### Architecture Overview
 
-This project consists of muliple repos sharing a common component system:
+This project consists of multiple repos sharing a common component system:
 
 - **Monorepo Design System** - Centralized component library published to GitHub Packages
 - **Content Sites** - Two Next.js applications consuming the shared components
