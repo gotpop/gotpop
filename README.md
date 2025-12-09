@@ -31,12 +31,13 @@ The platform consists of interconnected repositories sharing a common design sys
 
 ### Technical Stack
 
-**Frontend**: Next.js 16, TypeScript, React Server Components  
-**CMS**: Storyblok with multi-tenant content structure  
-**Design System**: Turbo monorepo with published component packages  
-**Infrastructure**: AWS (EC2, Lambda, SES), Docker containerization  
-**CI/CD**: GitHub Actions with automated deployment pipelines
+| Category | Technology |
+|----------|------------|
+| **Frontend** | Next.js 16, TypeScript, React Server Components |
+| **CMS** | Storyblok with multi-tenant content structure |
+| **Design System** | Turbo monorepo with published component packages |
+| **Infrastructure** | AWS (EC2, Lambda, SES), Docker containerization |
+| **CI/CD** | GitHub Actions with automated deployment pipelines |
 
-The architecture enables component reuse across projects while maintaining independent deployment cycles and content management.
 
 </details>
